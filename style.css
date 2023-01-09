@@ -148,7 +148,7 @@
     /*----------- -Start of SHOWS------- */
 
     .btn-border {
-        background: url(../test.svg) no-repeat;
+        background: url(./svg/btn.svg) no-repeat;
         width: 200px;
         height: 200px;
         position: relative;
@@ -164,7 +164,7 @@
         text-decoration: none;
     }
     .btn-border-subscribe {
-        background: url(../test.svg) no-repeat;
+        background: url(./svg/btn.svg) no-repeat;
         background-size: 233px 163px;
         width: 235px;
         height: 150px;
@@ -315,7 +315,7 @@
     .snake{
         width: 307px;
         height: 30px;
-        background: url(./snake.svg) no-repeat;
+        background: url(./svg/snake.svg) no-repeat;
         margin: auto;
         margin-top: -8px;
     }
